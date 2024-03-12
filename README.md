@@ -11,5 +11,5 @@
 -   [x] Express Js setup
 -   [x] Logger Setup
 -   [x] Error Handling Setup
--   [ ] Tests Setup
+-   [x] Tests Setup
 -   [ ] Create Template
