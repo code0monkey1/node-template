@@ -1,8 +1,8 @@
  🧑‍💻 Checklist for express project setup
 
 - [X] GitHub Setup
-- [ ] Node version manager setup
-- [ ] NodeJs project setup
+- [X] Node version manager setup
+- [X] NodeJs project setup
 - [ ] Typescript setup
 - [ ] Prettier setup
 - [ ] Eslint setup
