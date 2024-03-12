@@ -1,9 +1,8 @@
 function login(name: string) {
-    const user = {
-        name: "chiranjeev",
-    };
 
-    user.name;
+                console.log("My error");
 
-    return false;
+    return name;
 }
+
+login("chiranjeev");
