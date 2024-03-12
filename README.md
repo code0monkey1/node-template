@@ -4,7 +4,7 @@
 - [x] Node version manager setup
 - [x] NodeJs project setup
 - [x] Typescript setup
-- [ ] Prettier setup
+- [X] Prettier setup
 - [ ] Eslint setup
 - [ ] GitHooks setup
 - [ ] Application config setup

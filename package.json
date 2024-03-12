@@ -1,18 +1,25 @@
 {
-  "name": "template",
-  "version": "1.0.0",
-  "description": "generic template for creating nodejs project using typescript",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "format:check": "prettier . --check",
-    "format:fix": "prettier . --write"
-  },
-  "author": "Chiranjeev Thomas",
-  "license": "ISC",
-  "devDependencies": {
-    "@types/node": "^20.11.26",
-    "prettier": "3.2.5",
-    "typescript": "^5.4.2"
-  }
+    "name": "template",
+    "version": "1.0.0",
+    "description": "generic template for creating nodejs project using typescript",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "format:check": "prettier . --check",
+        "format:fix": "prettier . --write",
+        "lint": "eslint .",
+        "lint:fix": "eslint . --fix"
+    },
+    "author": "Chiranjeev Thomas",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^20.11.26",
+        "@typescript-eslint/eslint-plugin": "^7.2.0",
+        "@typescript-eslint/parser": "^7.2.0",
+        "eslint": "^8.57.0",
+        "eslint-config-prettier": "^9.1.0",
+        "prettier": "3.2.5",
+        "typescript": "^5.4.2",
+        "typescript-eslint": "^7.2.0"
+    }
 }
