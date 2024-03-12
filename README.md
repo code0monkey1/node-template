@@ -9,7 +9,7 @@
 -   [x] GitHooks setup
 -   [x] Application config setup
 -   [x] Express Js setup
--   [ ] Logger Setup
+-   [x] Logger Setup
 -   [ ] Error Handling Setup
 -   [ ] Tests Setup
 -   [ ] Create Template
