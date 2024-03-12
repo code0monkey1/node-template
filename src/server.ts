@@ -7,4 +7,4 @@ function login(name: string) {
     return name;
 }
 
-login("chiranjeev");
+login("hello");
