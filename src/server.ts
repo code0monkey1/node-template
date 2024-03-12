@@ -1,7 +1,9 @@
 function login(name: string) {
+    const person = {
+        name: "my name",
+    };
 
-                console.log("My error");
-
+    person.name;
     return name;
 }
 
