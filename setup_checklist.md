@@ -1,6 +1,6 @@
  🧑‍💻 Checklist for express project setup
 
-- [ ] GitHub Setup
+- [X] GitHub Setup
 - [ ] Node version manager setup
 - [ ] NodeJs project setup
 - [ ] Typescript setup
