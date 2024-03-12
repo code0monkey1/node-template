@@ -6,7 +6,7 @@
 -   [x] Typescript setup
 -   [x] Prettier setup
 -   [x] Eslint setup
--   [ ] GitHooks setup
+-   [x] GitHooks setup
 -   [ ] Application config setup
 -   [ ] Express Js setup
 -   [ ] Logger Setup
