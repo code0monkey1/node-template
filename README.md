@@ -8,7 +8,7 @@
 -   [x] Eslint setup
 -   [x] GitHooks setup
 -   [x] Application config setup
--   [ ] Express Js setup
+-   [x] Express Js setup
 -   [ ] Logger Setup
 -   [ ] Error Handling Setup
 -   [ ] Tests Setup
