@@ -4,8 +4,8 @@ import { HttpError } from "http-errors";
 const app = express();
 import "express-async-errors";
 
-app.get("/", (req, res) => {
-    res.send("working");
+app.get("/data", (req, res) => {
+    res.json({ data: "working" });
 });
 
 // eslint-disable-next-line @typescript-eslint/no-unused-vars

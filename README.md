@@ -10,6 +10,6 @@
 -   [x] Application config setup
 -   [x] Express Js setup
 -   [x] Logger Setup
--   [ ] Error Handling Setup
+-   [x] Error Handling Setup
 -   [ ] Tests Setup
 -   [ ] Create Template
