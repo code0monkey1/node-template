@@ -7,7 +7,7 @@
 -   [x] Prettier setup
 -   [x] Eslint setup
 -   [x] GitHooks setup
--   [ ] Application config setup
+-   [x] Application config setup
 -   [ ] Express Js setup
 -   [ ] Logger Setup
 -   [ ] Error Handling Setup
