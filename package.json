@@ -8,6 +8,7 @@
         "test": "jest --watchAll --runInBand",
         "format:check": "prettier . --check",
         "format:fix": "prettier . --write",
+        "test:prod": "jest --runInBand",
         "lint": "eslint .",
         "lint:fix": "eslint . --fix",
         "prepare": "husky"
@@ -39,7 +40,8 @@
     "lint-staged": {
         "*.ts": [
             "npm run lint:fix",
-            "npm run format:fix"
+            "npm run format:fix",
+            "npm run test:prod"
         ]
     },
     "dependencies": {
