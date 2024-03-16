@@ -5,7 +5,7 @@
     "main": "index.js",
     "scripts": {
         "dev": "nodemon src/server.ts",
-        "test": "jest --watchAll --runInBand",
+        "test": "jest --watchAll --runInBand --coverage",
         "format:check": "prettier . --check",
         "format:fix": "prettier . --write",
         "test:prod": "jest --runInBand",
@@ -40,8 +40,7 @@
     "lint-staged": {
         "*.ts": [
             "npm run lint:fix",
-            "npm run format:fix",
-            "npm run test:prod"
+            "npm run format:fix"
         ]
     },
     "dependencies": {
